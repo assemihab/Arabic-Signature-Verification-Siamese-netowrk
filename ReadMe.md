@@ -9,7 +9,7 @@ identical or different and may be used to identify forged handwritten signatures
 
 ## Libraries used:
 
-- Kgit eras
+- Keras
 - Scikit-learn
 - Pandas
 - Numpy
